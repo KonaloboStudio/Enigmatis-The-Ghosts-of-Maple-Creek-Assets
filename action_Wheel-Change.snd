@@ -1,0 +1,9 @@
+<!-- Used in Farm: Garage. Zoom with wheel. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CRandomContainer Delay="1.0">
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.800" Volume="0.900" FileName="action_Wheel-Change.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

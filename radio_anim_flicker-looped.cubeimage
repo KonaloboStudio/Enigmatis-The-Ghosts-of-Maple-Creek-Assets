@@ -1,0 +1,10 @@
+<animatedImage fps="10.00" blendframes="0">
+
+    <frame source="Cave_Light_Flicker0000.png"></frame>
+    <frame source="Cave_Light_Flicker0001.png"></frame>
+    <frame source="Cave_Light_Flicker0002.png"></frame>
+    <frame source="Cave_Light_Flicker0003.png"></frame>
+    <frame source="Cave_Light_Flicker0002.png"></frame>
+    <frame source="Cave_Light_Flicker0001.png"></frame>
+
+</animatedImage>

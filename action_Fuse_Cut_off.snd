@@ -1,0 +1,9 @@
+<!-- Used in Village: Cellar. One of fuse breaks when try to turn lights on. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.500" FileName="action_Fuse_Cut_off.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

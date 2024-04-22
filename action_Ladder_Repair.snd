@@ -1,0 +1,7 @@
+<!-- Using hammer to repair the ladder on Base location -->
+
+<Sound Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.800" Volume="1.000" FileName="using_hammer_to_repair_the_ladder.wav"></CSampleFile>
+        </CSample>
+</Sound>

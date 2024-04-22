@@ -1,0 +1,7 @@
+<!-- used in Hut: basement, LakeHouse: interior. Change a lock code part. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.0" Looped="false">
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.0" FileName="action_Code_Change.wav"></CSampleFile>
+        </CSample>
+</Sound>

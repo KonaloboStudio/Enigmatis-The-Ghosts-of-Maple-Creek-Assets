@@ -1,0 +1,9 @@
+<!-- Used in Farm: RoadToFarm. Cut off the rope ladder using knife. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.900" Volume="0.700" FileName="action_Rope_Cut.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

@@ -1,0 +1,11 @@
+ <!-- Used Square: MG Chapel. Remove blocking bar in MG Chapel -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.900" FileName="action_Chapel_Blocker_Remove.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>
+
+<!-- MG Symbols: dzwiek odblokowania sie przycisku, ktory blokuje przykrywe -->

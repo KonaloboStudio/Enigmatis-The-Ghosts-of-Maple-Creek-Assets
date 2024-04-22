@@ -1,0 +1,9 @@
+<!-- Used in Mansion: FrontDoor Ruins. Open a casket. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.300" Volume="1.100" FileName="invoke_scenario_Casket_Open.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

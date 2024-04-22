@@ -1,0 +1,7 @@
+<!-- Used in MainRoad: Turret. Cleaning the Eye Piece with the Clean Cloth. -->
+
+<Sound Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.900" FileName="cleaning_glass_rag.wav"></CSampleFile>
+        </CSample>
+</Sound>

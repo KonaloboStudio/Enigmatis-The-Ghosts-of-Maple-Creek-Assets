@@ -1,0 +1,5 @@
+<Sound Pan="0.300" Pitch="1.000" Volume="0.000" Looped="false"  Ambient="true">
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.800" FileName="heavy_breath.wav"></CSampleFile>
+        </CSample>
+</Sound>

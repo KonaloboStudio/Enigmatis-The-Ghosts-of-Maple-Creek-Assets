@@ -1,0 +1,7 @@
+<!-- Used in Village: MG Chapel. The Hidden Compartment opens. -->
+
+<Sound Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.700" Volume="1.000" FileName="73_Compartment_Open.wav"></CSampleFile>
+        </CSample>
+</Sound>

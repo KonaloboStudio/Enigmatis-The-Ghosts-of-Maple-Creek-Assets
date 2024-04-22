@@ -1,0 +1,9 @@
+<!-- Used in Village: MG Pipes; Mansion: MG TableWare, MG Symbols. Retainer Cap, Clamping Ring, O-Ring Seal, Pipe Connector, piece of cutlery, Button into a container - just a deliquate hit on a wooden surface. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="103Tiny_Item_Put_on_Wood.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

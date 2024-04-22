@@ -1,0 +1,7 @@
+<!-- Used in Church: Belfry Top. Acid melting sound after using acid on bell holder. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Ambient="true">
+        <CSample>
+           <CSampleFile Pan="0.200" Looped="false" Pitch="0.900" Volume="1.000" FileName="invoked_scenario_acid_stream.wav"></CSampleFile>
+        </CSample>
+</Sound>

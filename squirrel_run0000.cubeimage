@@ -1,0 +1,5 @@
+<animatedImage fps="8.00" blendframes="0">
+    <frame source="squirrel_run0000.png" top="0.00000" bottom="0.33333" left="0.00000" right="1.00000"></frame>
+    <frame source="squirrel_run0000.png" top="0.33333" bottom="0.66667" left="0.00000" right="1.00000"></frame>
+    <frame source="squirrel_run0000.png" top="0.66667" bottom="1.00000" left="0.00000" right="1.00000"></frame>
+</animatedImage>

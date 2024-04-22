@@ -1,0 +1,9 @@
+<!-- Used in MainRoad: Crossroads. Sound of put pump on the ground. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.800" Volume="0.900" FileName="action_Put_Pump.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

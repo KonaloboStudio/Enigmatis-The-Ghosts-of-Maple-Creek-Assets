@@ -1,0 +1,9 @@
+<!-- Used in Village:PCRoom. Sound of closing the flare gun after insrting the ammo. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.600" FileName="action_Flare_Gun_Close.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

@@ -1,0 +1,7 @@
+<Sound Pan="0.300" Pitch="0.200" Volume="0.300"  Ambient="true">
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Looped="false" FileName="25_Ghostly_Motive_3.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

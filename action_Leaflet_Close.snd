@@ -1,0 +1,9 @@
+<!-- Used in MainRoad: Gas station (zoom: leaflet stand). Switch pages in leaflets. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.700" FileName="action_Leaflet_Close.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

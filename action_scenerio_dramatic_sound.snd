@@ -1,0 +1,7 @@
+<!-- Used when mesmerized villager appears. PC Room. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" >
+    <CSample>
+        <CSampleFile Looped="false" FileName="action_scenerio_dramatic_sound.wav"></CSampleFile>
+    </CSample>
+</Sound>

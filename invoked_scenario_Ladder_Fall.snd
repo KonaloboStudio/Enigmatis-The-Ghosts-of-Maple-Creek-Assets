@@ -1,0 +1,7 @@
+<!-- Used in farm: road to farm. A rope ladder falls from a tree on the ground.-->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.800" Volume="1.000" FileName="invoked_scenario_Ladder_Fall.wav"></CSampleFile>
+        </CSample>
+</Sound>

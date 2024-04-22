@@ -1,0 +1,12 @@
+<!-- used in church: inside. People are in trance, they make some creepy-praying like noise, but we can't hear particular words. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.0" Looped="true" Ambient="true">
+    <CRandomContainer DelayMin="0" DelayMax="1.5">
+	<CSample>
+           <CSampleFile Pan="0.000" Weight="5" Pitch="1.000" Volume="1.0" FileName="ambient_crowd_pray_3.wav"></CSampleFile>
+        </CSample>
+	<CSample>
+           <CSampleFile Pan="0.000" Weight="5" Pitch="1.000" Volume="0.8" FileName="ambient_crowd_pray_4.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

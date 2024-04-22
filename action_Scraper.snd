@@ -1,0 +1,7 @@
+<!-- Used in Lake House : Sacred place. Zoom with symbols. Using scraper on moss. -->
+
+<Sound Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.800" Volume="1.000" FileName="action_Scraper.wav"></CSampleFile>
+        </CSample>
+</Sound>

@@ -1,0 +1,9 @@
+<!-- Used in Village: square. YM fall on ground after a few steps. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.200" Pitch="1.200" Volume="1.100" FileName="action_YM_Fall.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

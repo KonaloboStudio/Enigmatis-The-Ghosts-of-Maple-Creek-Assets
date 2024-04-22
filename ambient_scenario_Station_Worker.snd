@@ -1,0 +1,21 @@
+<!-- Used in MainRoad: Gas Station. Play one of 3 sounds of working station worker (for example: sounds of metal objects). -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CRandomContainer DelayMin="0" DelayMax="0">
+		<CSample>
+           <CSampleFile Pan="0.000" Weight="5" Pitch="0.900" Volume="0.700" FileName="ambient_scenario_Station_Worker_1.wav"></CSampleFile>
+        </CSample>
+		<CSample>
+           <CSampleFile Pan="0.000" Weight="2" Pitch="1.200" Volume="0.600" FileName="ambient_scenario_Station_Worker_2.wav"></CSampleFile>
+        </CSample>
+		<CSample>
+           <CSampleFile Pan="0.000" Weight="1" Pitch="01.000" Volume="0.700" FileName="ambient_scenario_Station_Worker_3.wav"></CSampleFile>
+        </CSample>
+		<CSample>
+           <CSampleFile Pan="0.000" Weight="2" Pitch="0.800" Volume="0.600" FileName="ambient_scenario_Station_Worker_4.wav"></CSampleFile>
+        </CSample>
+		<CSample>
+           <CSampleFile Pan="0.000" Weight="2" Pitch="1.100" Volume="0.600" FileName="ambient_scenario_Station_Worker_5.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

@@ -1,0 +1,9 @@
+<!-- Used in Farm: Garage. Trying to start car engine. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.900" Volume="1.000" FileName="action_Car_Engine_Start_Failed.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

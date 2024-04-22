@@ -1,0 +1,48 @@
+<!-- Used in Village: MG BriefcaseLock. Drop items from a sack. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000">
+	<CSoundContainer>
+		<CSoundContainer Delay="0.0">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.100" Volume="1.2" FileName="action_Sack_drop_items_1.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+		
+		<CSoundContainer Delay="1.3">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="0.900" Volume="1.0" FileName="action_Sack_drop_items_2.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+
+		<CSoundContainer Delay="1.5">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.000" Volume="1.0" FileName="action_Sack_drop_items_2.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+
+		<CSoundContainer Delay="1.7">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.000" Volume="1.0" FileName="action_Sack_drop_items_3.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+
+		<CSoundContainer Delay="1.2">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="0.800" Volume="1.2" FileName="action_Sack_drop_items_2.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+
+		<CSoundContainer Delay="1.65">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.400" Volume="1.2" FileName="action_Sack_drop_items_2.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+
+		<CSoundContainer Delay="1.6">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.400" Volume="1.3" FileName="action_Sack_drop_items_3.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+		
+	</CSoundContainer>
+</Sound>

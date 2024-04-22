@@ -1,0 +1,7 @@
+<!-- Used in Church: Tomb. Open an urn.-->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.700" Volume="0.900" FileName="invoked_scenario_Urn_Open.wav"></CSampleFile>
+        </CSample>
+</Sound>

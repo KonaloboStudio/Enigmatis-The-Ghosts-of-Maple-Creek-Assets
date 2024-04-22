@@ -1,0 +1,7 @@
+<!-- Used in Village: PCRoom. During villager cutscene. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+	<CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="Heartbeat_Loop2.wav"></CSampleFile>
+    </CSample>
+</Sound>

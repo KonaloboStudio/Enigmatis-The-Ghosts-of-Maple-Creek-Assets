@@ -1,0 +1,7 @@
+<!-- Used in Cellar: Zoom Drain. Moving a metal drain plate. -->
+
+<Sound Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.300" Volume="0.900" FileName="action_Move_Drain_Plate.wav"></CSampleFile>
+        </CSample>
+</Sound>

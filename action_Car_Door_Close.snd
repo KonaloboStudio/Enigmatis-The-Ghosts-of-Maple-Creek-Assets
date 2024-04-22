@@ -1,0 +1,9 @@
+<!-- Used in MainRoad: Gas Station Location. Cutscene with moving car. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.500" Pitch="1.000" Volume="1.000" FileName="action_car_door_close.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

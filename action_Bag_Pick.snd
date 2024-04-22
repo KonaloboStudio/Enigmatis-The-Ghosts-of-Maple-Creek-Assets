@@ -1,0 +1,12 @@
+<!-- Used in Village: Bathroom. Trying to pick the Bag with a Picket so that it falls down. Played 3 times during animation -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.200" Volume="0.500" FileName="action_Bag_Pick.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.300" Volume="0.500" FileName="action_Bag_Pick_2.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

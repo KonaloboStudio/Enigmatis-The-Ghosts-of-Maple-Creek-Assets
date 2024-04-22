@@ -1,0 +1,9 @@
+<!-- Used in Mansion: Dining Room. Plate mechanism fall down. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.900" FileName="minigame_Plate_Mechanism_Fall_Down.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

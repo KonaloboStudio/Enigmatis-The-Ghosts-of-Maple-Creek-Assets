@@ -1,0 +1,9 @@
+<!-- Used Mansion: MG Symbols. Removing a Button from its place in the Symbol Minigame. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.300" FileName="action_Symbol_Button_Remove.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

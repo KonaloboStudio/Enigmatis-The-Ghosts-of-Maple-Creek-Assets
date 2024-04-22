@@ -1,0 +1,7 @@
+<!-- Used in Village: Bathroom. Washing a dirty cloth in the washbowl. -->
+
+<Sound Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.900" FileName="washing_the_rag_in_the_water.wav"></CSampleFile>
+        </CSample>
+</Sound>

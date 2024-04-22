@@ -1,0 +1,9 @@
+<!-- Used Mansion: MG Jigsaw. Piece placed in the correct spot. -->
+
+<Sound Pan="0.00" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="action_Mansion_piece_placed_correct.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

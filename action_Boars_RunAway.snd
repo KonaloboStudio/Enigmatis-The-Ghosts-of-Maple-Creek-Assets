@@ -1,0 +1,20 @@
+<!-- Used when boars run away after flare is shot at them. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000">
+	<CSoundContainer>
+		<CSoundContainer Delay="0.0">
+			<CSample>
+				<CSampleFile Pan="-0.500" Pitch="1.100" Volume="1.7" FadeOutTime="0.5" FileName="action_boars_RunAway.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+		
+		<CSoundContainer Delay="0.3">
+			<CSample>
+				<CSampleFile Pan="-0.300" Pitch="1.700" Volume="0.7" FadeOutTime="2" FileName="10_Animal_Walking_2.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+
+	</CSoundContainer>
+</Sound>
+
+

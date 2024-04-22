@@ -1,0 +1,15 @@
+<!-- Used Mansion: MG Symbols. The letters are printed by the machine in the Symbol Minigame. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.200" FileName="action_Symbol_Print_1.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.200" FileName="action_Symbol_Print_2.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.200" FileName="action_Symbol_Print_3.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

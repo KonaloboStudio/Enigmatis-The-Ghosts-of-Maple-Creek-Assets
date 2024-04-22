@@ -1,0 +1,18 @@
+<!-- Used in LakeHouse: FSZoom Desk. Fire the match and candle. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000">
+	<CSoundContainer>
+		<CSoundContainer Delay="0.0">
+			<CSample>
+				<CSampleFile Pan="0.300" Pitch="1.000" Volume="1.0" FileName="invoked_scenario_Match_Fire_1.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+		
+		<CSoundContainer Delay="2.2">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.000" Volume="1.0" FileName="invoked_scenario_Match_Fire_2.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+		
+	</CSoundContainer>
+</Sound>

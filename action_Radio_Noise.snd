@@ -1,0 +1,9 @@
+<!-- Used in MainRoad: Crossroads. Triggered when the PC takes the radio microphone/speaker. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.900" FileName="139_Radio_Noise.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

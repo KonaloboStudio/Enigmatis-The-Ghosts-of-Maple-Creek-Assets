@@ -1,0 +1,9 @@
+<!-- Used in Farm: Barn. Zoom with broken chainsaw. Changing chain. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CRandomContainer Delay="1.0">
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.900" Volume="1.000" FileName="action_Repair_Chainsaw.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

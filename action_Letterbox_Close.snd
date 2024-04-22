@@ -1,0 +1,7 @@
+<!-- Used in Square: HO Fence. Close a letterbox.-->
+
+<Sound Pan="0.400" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.800" FileName="action_Letterbox_Close.wav"></CSampleFile>
+        </CSample>
+</Sound>

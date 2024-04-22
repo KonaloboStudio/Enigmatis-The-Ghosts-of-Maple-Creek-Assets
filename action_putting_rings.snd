@@ -1,0 +1,7 @@
+<!-- Used in Village: MG Pipes. Putting rings on pipe. -->
+
+<Sound Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.900" FileName="putting_the_o-rings_on_a_pipe.wav"></CSampleFile>
+        </CSample>
+</Sound>

@@ -1,0 +1,7 @@
+<!-- Used in Village: MG BriefcaseLock. Inserting the Chipcard into the reader. -->
+
+<Sound Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.400" FileName="action_Chipcard_Insert_1.wav"></CSampleFile>
+        </CSample>
+</Sound>

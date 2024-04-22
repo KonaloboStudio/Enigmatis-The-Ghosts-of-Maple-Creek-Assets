@@ -1,0 +1,15 @@
+<!-- Used in Mansion: FireplaceRoom. Moving stuff (papers and shoes). -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false"  Ambient="true">
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Delay="0.0" Pitch="1.300" Volume="1.000" FileName="124_Paper_Picking_up.wav"></CSampleFile>
+        </CSample>
+		<CSample>
+           <CSampleFile Pan="0.000" Delay="0.0" Pitch="0.800" Volume="1.000" FileName="action_Bag_Pick.wav"></CSampleFile>
+        </CSample>
+		<CSample>
+           <CSampleFile Pan="0.000" Delay="0.0" Pitch="1.300" Volume="1.000" FileName="action_Rake_Use_2.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

@@ -1,0 +1,7 @@
+<!-- Sound base gasp -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="Female_LS_C_Surprised04.wav"></CSampleFile>
+    </CSample>
+</Sound>

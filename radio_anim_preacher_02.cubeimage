@@ -1,0 +1,8 @@
+<animatedImage fps="3.50" blendframes="0">
+
+    <frame source="gas_station_summer_preacher_anim_idle_02_01.png"></frame>
+    <frame source="gas_station_summer_preacher_anim_idle_02_03.png"></frame>
+    <frame source="gas_station_summer_preacher_anim_idle_02_06.png"></frame>
+
+
+</animatedImage>

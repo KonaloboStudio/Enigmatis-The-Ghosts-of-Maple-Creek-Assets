@@ -1,0 +1,9 @@
+<!-- Used in Village:Vestibule Uses when player take preachers photo out of the frame. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="-0.500" Pitch="0.700" Volume="1.100" FileName="action_Photo_Out_Of_Frame.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

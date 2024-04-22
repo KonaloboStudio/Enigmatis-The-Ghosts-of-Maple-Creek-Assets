@@ -1,0 +1,9 @@
+<!-- Used in Village: MG BriefcaseLock. Displaying the grid in the screen of the Briefcase. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.900" Volume="0.900" FileName="action_Briefcase_Grid_Display.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

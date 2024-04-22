@@ -1,0 +1,12 @@
+<!-- Used in Main Menu. Play from time to time -->
+
+<Sound Pan="0.300" Pitch="0.200" Volume="1.000" >
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.500" Weight="2" Pitch="0.700" Volume="0.500" FadeInTime="2" FadeOutTime="2" FileName="wind_with_leafs.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.500" Weight="2" Pitch="0.700" Volume="0.500" FadeInTime="2" FadeOutTime="3" FileName="wind_with_leafs_2.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

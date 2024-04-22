@@ -1,0 +1,18 @@
+<!-- Used in Square location. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="0.600" Looped="false"  Ambient="true">
+    <CRandomContainer DelayMin="0" DelayMax="0">
+        <CSample>
+           <CSampleFile Pan="0.300" Pitch="1.000" Volume="1.1" FileName="sparkles_shoot_2.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.0" FileName="sparkles_shoot_3.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.900" Volume="1.1" FileName="sparkles_shoot_2.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.200" Volume="1.0" FileName="sparkles_shoot_2.wav"></CSampleFile>
+        </CSample>
+        </CRandomContainer>
+</Sound>

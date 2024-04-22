@@ -1,0 +1,9 @@
+<!-- Used in Sacred Place: Cave Entrance. Sound of closing skull. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.100" Volume="1.000" FileName="action_Close_Skull.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

@@ -1,0 +1,5 @@
+<Sound Pan="0.0" Pitch="1.000" Volume="0.75" Looped="false" Ambient="true">
+   <CSample>
+	  <CSampleFile FileName="14_Bird_1_2.wav"></CSampleFile>
+   </CSample>
+</Sound>

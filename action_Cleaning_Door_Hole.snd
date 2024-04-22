@@ -1,0 +1,11 @@
+<!-- Used in Mansion: Hall. Cleaning door hole using a wire. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000">
+	<CSoundContainer>
+		<CSoundContainer Delay="1.0">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.000" Volume="1.0" FileName="action_Cleaning_Door_Hole.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+	</CSoundContainer>
+</Sound>

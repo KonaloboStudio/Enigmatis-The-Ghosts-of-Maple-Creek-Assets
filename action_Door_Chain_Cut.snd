@@ -1,0 +1,9 @@
+<!-- Used in Village: Square. Door chain being cut with a wire cutter. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="action_Door_Chain_Cut.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

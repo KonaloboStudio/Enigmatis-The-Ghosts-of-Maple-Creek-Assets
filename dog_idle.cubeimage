@@ -1,0 +1,33 @@
+<animatedImage fps="5.00" blendframes="0">
+
+    <frame source="farm_dog_anim_idle_01.png"></frame>
+    <frame source="farm_dog_anim_idle_02.png"></frame>
+    <frame source="farm_dog_anim_idle_03.png"></frame>
+    <frame source="farm_dog_anim_idle_04.png"></frame>
+    <frame source="farm_dog_anim_idle_05.png"></frame>
+    <frame source="farm_dog_anim_idle_06.png"></frame>
+    <frame source="farm_dog_anim_idle_05.png"></frame>
+    <frame source="farm_dog_anim_idle_04.png"></frame>
+    <frame source="farm_dog_anim_idle_03.png"></frame>
+    <frame source="farm_dog_anim_idle_02.png"></frame>
+    <frame source="farm_dog_anim_idle_03.png"></frame>
+    <frame source="farm_dog_anim_idle_04.png"></frame>
+    <frame source="farm_dog_anim_idle_05.png"></frame>
+    <frame source="farm_dog_anim_idle_06.png"></frame>
+    <frame source="farm_dog_anim_idle_05.png"></frame>
+    <frame source="farm_dog_anim_idle_04.png"></frame>
+    <frame source="farm_dog_anim_idle_03.png"></frame>
+    <frame source="farm_dog_anim_idle_02.png"></frame>
+    <frame source="farm_dog_anim_idle_03.png"></frame>
+    <frame source="farm_dog_anim_idle_04.png"></frame>
+    <frame source="farm_dog_anim_idle_05.png"></frame>
+    <frame source="farm_dog_anim_idle_06.png"></frame>
+    <frame source="farm_dog_anim_idle_07.png"></frame>
+    <frame source="farm_dog_anim_idle_08.png"></frame>
+    <frame source="farm_dog_anim_idle_09.png"></frame>
+    <frame source="farm_dog_anim_idle_010.png"></frame>
+    <frame source="farm_dog_anim_idle_09.png"></frame>
+    <frame source="farm_dog_anim_idle_08.png"></frame>
+    <frame source="farm_dog_anim_idle_07.png"></frame>
+
+</animatedImage>

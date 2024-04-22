@@ -1,0 +1,10 @@
+<animatedImage fps="30.00" blendframes="1">
+    <frame source="Turret_bats0000.png" top="0.00000" bottom="0.25000" left="0.00000" right="0.50000"></frame>
+    <frame source="Turret_bats0000.png" top="0.00000" bottom="0.25000" left="0.50000" right="1.00000"></frame>
+    <frame source="Turret_bats0000.png" top="0.25000" bottom="0.50000" left="0.00000" right="0.50000"></frame>
+    <frame source="Turret_bats0000.png" top="0.25000" bottom="0.50000" left="0.50000" right="1.00000"></frame>
+    <frame source="Turret_bats0000.png" top="0.50000" bottom="0.75000" left="0.00000" right="0.50000"></frame>
+    <frame source="Turret_bats0000.png" top="0.50000" bottom="0.75000" left="0.50000" right="1.00000"></frame>
+    <frame source="Turret_bats0000.png" top="0.75000" bottom="1.00000" left="0.00000" right="0.50000"></frame>
+    <frame source="Turret_bats0000.png" top="0.75000" bottom="1.00000" left="0.50000" right="1.00000"></frame>
+</animatedImage>

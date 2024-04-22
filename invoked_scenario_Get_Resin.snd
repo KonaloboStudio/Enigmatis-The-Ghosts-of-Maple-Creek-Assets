@@ -1,0 +1,7 @@
+<!-- Used in LakeHouse: FSZoom Desk. Get waterproof resin into dropper. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.900" FileName="invoked_scenario_Get_Resin.wav"></CSampleFile>
+     </CSample>
+</Sound>

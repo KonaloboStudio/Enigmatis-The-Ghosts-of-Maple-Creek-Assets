@@ -1,0 +1,7 @@
+<!-- Used in Farm: Garage. Zoom with wheel. -->
+
+<Sound Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.900" Volume="0.900" FileName="action_Screws.wav"></CSampleFile>
+        </CSample>
+</Sound>

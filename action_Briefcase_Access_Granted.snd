@@ -1,0 +1,9 @@
+<!-- Used in Village: MG BriefcaseLock. Success in the Briefcase Minigame. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.800" FileName="action_Briefcase_Access_Granted.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

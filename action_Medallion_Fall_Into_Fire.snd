@@ -1,0 +1,11 @@
+<!-- Used in  Mansion: Fireplaceroom. Medallion falling into the fire. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000">
+	<CSoundContainer>
+		<CSoundContainer Delay="1.8">
+			<CSample>
+				<CSampleFile Pan="0.100" Pitch="1.100" Volume="1.0" FileName="action_Medallion_Fall_Into_Fire.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>	
+	</CSoundContainer>
+</Sound>

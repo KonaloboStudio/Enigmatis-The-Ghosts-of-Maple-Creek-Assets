@@ -1,0 +1,9 @@
+<!-- Used in Village: MG BriefcaseLock. Insrting a Paper-Clip into a locked electronic button. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.800" FileName="112_Paper-Clip_into_Button.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

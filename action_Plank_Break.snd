@@ -1,0 +1,7 @@
+<!-- Used in MainRoad: Fallen Tree And Bridge. Breaking the Plank with the Knife. -->
+
+<Sound Pan="1.000" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.400" Pitch="1.100" Volume="0.900" FileName="action_Plank_Break.wav"></CSampleFile>
+        </CSample>
+</Sound>

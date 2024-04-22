@@ -1,0 +1,36 @@
+<!-- Additional ambient soundscripts for locations in distance from church:
+
+- Village.Hill
+- Village.Square
+- Village.House.Vestibule
+- Village.House.Bathroom
+- Village.House.PCRoom
+- Village.House.Balcony
+- Village.Garden
+- Village.PeripheralHouse.Inside
+- Village.PeripheralHouse.Yard
+- MainRoad.Crossroads
+- MainRoad.FallenTreeAndBridge
+- MainRoad.GasStation
+- MainRoad.LookoutTower.Base
+- MainRoad.LookoutTower.Turret
+- Farm.RoadToFarm
+- Farm.Entrance
+
+-->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="0.3" Looped="true" Ambient="true">
+    <CRandomContainer DelayMin="10" DelayMax="24" WaitAfterMin="10" WaitAfterMax="24">
+		<CSequenceContainer>
+        <CSample>
+           <CSampleFile FadeInTime="0.25" FileName="SINGLE_Bell_ringing_1.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile FileName="SINGLE_Bell_ringing_1.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile FadeOutTime="0.25" FileName="SINGLE_Bell_ringing_1.wav"></CSampleFile>
+        </CSample>
+		</CSequenceContainer>
+    </CRandomContainer>
+</Sound>

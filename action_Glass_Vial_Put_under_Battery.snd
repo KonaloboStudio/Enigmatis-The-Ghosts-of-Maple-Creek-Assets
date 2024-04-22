@@ -1,0 +1,9 @@
+<!-- Used in MainRoad: Crossroads. Putting the Glass Vial next to the Battery so that the Vial is filled with acid. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer Delay="1.1">
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.900" FileName="action_Glass_Vial_Put_under_Battery.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

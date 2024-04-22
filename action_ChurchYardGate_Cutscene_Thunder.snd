@@ -1,0 +1,9 @@
+<!-- Used in Cutscene of opening Church Yard Gate -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.500" FileName="action_ChurchYardGate_Cutscene_Thunder.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

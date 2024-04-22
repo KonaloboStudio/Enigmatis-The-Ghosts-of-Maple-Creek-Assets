@@ -1,0 +1,9 @@
+<!-- used in Minigame-Pipes and only there. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="0.100" Looped="false"  Ambient="true">
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.200" Pitch="1.000" Volume="0.900" FileName="27_Water_drop.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

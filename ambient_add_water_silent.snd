@@ -1,0 +1,14 @@
+<!-- Used in Lake House locations:
+
+- LakeHouse.Interior
+- LakeHouse.Shore
+
+-->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.0" Looped="true" Ambient="true">
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Looped="true" Pitch="1.000" Volume="0.55" FileName="24_Water_waves.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

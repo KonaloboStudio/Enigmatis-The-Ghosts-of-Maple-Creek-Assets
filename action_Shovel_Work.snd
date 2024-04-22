@@ -1,0 +1,12 @@
+<!-- Used in Mansion: Zoom Girls Room. Remove debris from the bed. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="action_Shovel_Work_1.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="action_Shovel_Work_2.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

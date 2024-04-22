@@ -1,0 +1,7 @@
+<!-- Used in MG trapdoor. A sickle is moveed to end position.-->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="minigame_sickle_dock.wav"></CSampleFile>
+        </CSample>
+</Sound>

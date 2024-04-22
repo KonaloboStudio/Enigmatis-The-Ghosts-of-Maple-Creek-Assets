@@ -1,0 +1,9 @@
+<!-- Used in Village: PC Room. Placing a Stool below the Lamp in the PC Room. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.900" FileName="action_Stool_Stand.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

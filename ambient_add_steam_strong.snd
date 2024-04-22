@@ -1,0 +1,9 @@
+<!-- Used in Main Road:Crossroads Car Engine Zoom. Played always when the zoom is opened.-->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="0.000" Looped="true" Ambient="true">
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.600" Looped="true" FadeInTime="1.000" FileName="Steam_raising_from_hot_car_engine.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

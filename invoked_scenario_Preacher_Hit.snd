@@ -1,0 +1,9 @@
+<!-- Used Sacred Place: Ritual Hall. Preacher hits Hamilton. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer Delay="0.0">
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="invoked_scenario_Preacher_Hit.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

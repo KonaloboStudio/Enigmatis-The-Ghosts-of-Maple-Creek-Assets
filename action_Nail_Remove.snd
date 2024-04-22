@@ -1,0 +1,7 @@
+<!-- Used in Mansion/Front Door when the player using a pliers on the nails -->
+
+<Sound Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.900" FileName="164_Nail_Remove.wav"></CSampleFile>
+        </CSample>
+</Sound>

@@ -1,0 +1,15 @@
+<!-- Used in scenario animations, where see falling planks and something like this. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="0.750" Looped="false"  Ambient="true">
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.450" FileName="20_Hit_floor_hard_2.wav"></CSampleFile>
+        </CSample>
+		<CSample>
+           <CSampleFile Pan="0.600" Pitch="1.000" Volume="0.550" FileName="20_Hit_floor_hard_2.wav"></CSampleFile>
+        </CSample>
+		<CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.550" FileName="20_Hit_floor_hard_1.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

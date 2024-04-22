@@ -1,0 +1,9 @@
+<!-- Used Farm: Entrance. Throwing the Meat onto the bowl next to the Dog Kennel. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.900" FileName="action_Meat_Give_to_Dog.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

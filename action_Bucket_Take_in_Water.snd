@@ -1,0 +1,9 @@
+<!-- Used in Village: Bathroom. Taking in water to the Bucket. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="action_Bucket_Take_in_Water.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

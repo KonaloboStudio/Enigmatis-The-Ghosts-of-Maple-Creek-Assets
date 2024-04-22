@@ -1,0 +1,9 @@
+<!-- Used in MainRoad: Gas Station Inside. Put money into the machine. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer Delay="0.6">
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="inserting_the_coin_into_telescope.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

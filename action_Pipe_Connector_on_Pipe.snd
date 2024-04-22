@@ -1,0 +1,9 @@
+<!-- Used in Village: MG Pipes. Putting a Pipe Connector on a metal Pipe. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.800" Volume="0.900" FileName="action_Pipe_Connector_on_Pipe.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

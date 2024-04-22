@@ -1,0 +1,9 @@
+<!-- Used in MainRoad: Crossroads. A flare hits and scare boars. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.100" FileName="action_Flaregun_bang.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

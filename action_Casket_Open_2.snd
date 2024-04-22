@@ -1,0 +1,10 @@
+<!-- Used in Village: Garden. Open a casket. -->
+<!-- Used in LakeHouse: Interior. Open a casket. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="action_Casket_Open_2.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

@@ -1,0 +1,7 @@
+<!-- Used in MainRoad: Base. The Owl wakes up and fiels away from the ladder. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="15_Bird_2_2.wav"></CSampleFile>
+    </CSample>
+</Sound>

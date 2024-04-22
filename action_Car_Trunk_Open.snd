@@ -1,0 +1,7 @@
+<!-- Used in MainRoad: Crossroads. Opening the PC Car Trunk. -->
+
+<Sound Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.900" FileName="car_trunk_opening_squeak_only.wav"></CSampleFile>
+        </CSample>
+</Sound>

@@ -1,0 +1,11 @@
+<!-- Additional ambient soundscript for bell sound in ChurchYardGate location
+
+- MainRoad.ChurchYardGate
+
+-->
+
+<Sound Looped="true" WaitAfter="0.5" Volume="0.7" Ambient="true">
+    <CSample>
+        <CSampleFile Volume="1.0" FileName="SINGLE_Bell_ringing_1.wav"></CSampleFile>
+    </CSample>
+</Sound>

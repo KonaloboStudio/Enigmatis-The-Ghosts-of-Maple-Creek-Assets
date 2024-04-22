@@ -1,0 +1,7 @@
+<!-- Used in Cutscene 2: Young Man. Play one of 2 wave sounds -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+           <CSampleFile Pan="0.000" Weight="5" Pitch="1.000" Volume="0.900" FadeOut ="2" FileName="19_Distant_thunder.wav"></CSampleFile>
+        </CSample>
+</Sound>

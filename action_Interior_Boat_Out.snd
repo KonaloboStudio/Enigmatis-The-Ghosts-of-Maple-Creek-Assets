@@ -1,0 +1,9 @@
+<!-- Location: LakeHouse: Interior-->
+
+<Sound Pan="-0.500" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.200" Volume="1.000" FileName="action_Interior_Boat.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

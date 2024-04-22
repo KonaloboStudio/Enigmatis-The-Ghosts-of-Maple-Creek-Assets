@@ -1,0 +1,14 @@
+<!-- Used in Hill location (on first enter) -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Ambient="true">
+	<CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.400" Looped="true" FileName="wind_no_leafs.wav"></CSampleFile>
+        </CSample>
+	<CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.300" Looped="true" FileName="wind_no_leafs_2.wav"></CSampleFile>
+        </CSample>
+	<CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.800" Looped="true" FileName="19_Distant_thunder.wav"></CSampleFile>
+        </CSample>
+</Sound>
+

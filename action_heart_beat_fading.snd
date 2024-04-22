@@ -1,0 +1,97 @@
+<!-- Fading heart beat sound to be played after dramatic events -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+	<CSoundContainer>
+		
+		<CSoundContainer Delay="0.0" Volume="1.0">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="Heartbeat_Loop2.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+
+		<CSoundContainer Delay="0.6" Volume="1.0">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="Heartbeat_Loop2.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+
+		<CSoundContainer Delay="1.2" Volume="1.0">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="Heartbeat_Loop2.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+		
+		<CSoundContainer Delay="1.8" Volume="0.9">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="Heartbeat_Loop2.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+
+		<CSoundContainer Delay="2.4" Volume="0.8">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="Heartbeat_Loop2.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+
+		<CSoundContainer Delay="3.0" Volume="0.75">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="Heartbeat_Loop2.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+		
+		<CSoundContainer Delay="3.6" Volume="0.7">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="Heartbeat_Loop2.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+
+		<CSoundContainer Delay="4.2" Volume="0.65">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="Heartbeat_Loop2.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+
+		<CSoundContainer Delay="4.8" Volume="0.65">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="Heartbeat_Loop2.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+
+		<CSoundContainer Delay="5.5" Volume="0.6">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="Heartbeat_Loop2.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+
+		<CSoundContainer Delay="6.3" Volume="0.55">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="Heartbeat_Loop2.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+
+		<CSoundContainer Delay="7.2" Volume="0.45">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="Heartbeat_Loop2.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+
+		<CSoundContainer Delay="8.1" Volume="0.35">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="Heartbeat_Loop2.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+
+		<CSoundContainer Delay="9.0" Volume="0.25">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="Heartbeat_Loop2.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+
+		<CSoundContainer Delay="10.0" Volume="0.2">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="Heartbeat_Loop2.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+
+	</CSoundContainer>
+</Sound>

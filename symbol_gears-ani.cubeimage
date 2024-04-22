@@ -1,0 +1,10 @@
+<animatedImage fps="8.00" blendframes="1">
+    <frame source="symbol_gears-ani.png" top="0.00000" bottom="1.00000" left="0.00000" right="0.12500"></frame>
+    <frame source="symbol_gears-ani.png" top="0.00000" bottom="1.00000" left="0.12500" right="0.25000"></frame>
+    <frame source="symbol_gears-ani.png" top="0.00000" bottom="1.00000" left="0.25000" right="0.37500"></frame>
+    <frame source="symbol_gears-ani.png" top="0.00000" bottom="1.00000" left="0.37500" right="0.50000"></frame>
+    <frame source="symbol_gears-ani.png" top="0.00000" bottom="1.00000" left="0.50000" right="0.62500"></frame>
+    <frame source="symbol_gears-ani.png" top="0.00000" bottom="1.00000" left="0.62500" right="0.75000"></frame>
+    <frame source="symbol_gears-ani.png" top="0.00000" bottom="1.00000" left="0.75000" right="0.87500"></frame>
+    <frame source="symbol_gears-ani.png" top="0.00000" bottom="1.00000" left="0.87500" right="1.00000"></frame>
+</animatedImage>

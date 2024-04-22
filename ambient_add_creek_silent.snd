@@ -1,0 +1,12 @@
+<!-- Additional ambient soundscript for silent creek sound
+
+- MainRoad.FallenTreeAndBridge
+- LakeHouse.Interior
+
+-->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="0.5" Ambient="true">
+        <CSample>
+           <CSampleFile Pan="0.000" Weight="3" Pitch="1.000" Looped="true" Volume="0.05" FadeInTime="2" FileName="22_Creek_Flow.wav"></CSampleFile>
+        </CSample>
+</Sound>

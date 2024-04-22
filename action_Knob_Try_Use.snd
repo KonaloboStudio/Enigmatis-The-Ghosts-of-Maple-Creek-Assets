@@ -1,0 +1,9 @@
+<!-- Used in Mansion: FrontDoor Burned. Try tu use knob while a toy soldier is still missing. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.300" Volume="1.000" FileName="action_Knob_Try_Use.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

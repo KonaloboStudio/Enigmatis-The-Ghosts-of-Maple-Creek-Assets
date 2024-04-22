@@ -1,0 +1,24 @@
+<animatedImage fps="20.00" blendframes="0">
+
+    <frame source="Fire_loop0000.png"></frame>
+    <frame source="Fire_loop0001.png"></frame>
+    <frame source="Fire_loop0002.png"></frame>
+    <frame source="Fire_loop0003.png"></frame>
+    <frame source="Fire_loop0004.png"></frame>
+    <frame source="Fire_loop0005.png"></frame>
+    <frame source="Fire_loop0006.png"></frame>
+    <frame source="Fire_loop0007.png"></frame>
+    <frame source="Fire_loop0008.png"></frame>
+    <frame source="Fire_loop0009.png"></frame>
+    <frame source="Fire_loop0010.png"></frame>
+    <frame source="Fire_loop0011.png"></frame>
+    <frame source="Fire_loop0012.png"></frame>
+    <frame source="Fire_loop0013.png"></frame>
+    <frame source="Fire_loop0014.png"></frame>
+    <frame source="Fire_loop0015.png"></frame>
+    <frame source="Fire_loop0016.png"></frame>
+    <frame source="Fire_loop0017.png"></frame>
+    <frame source="Fire_loop0018.png"></frame>
+    <frame source="Fire_loop0019.png"></frame>
+
+</animatedImage>

@@ -1,0 +1,7 @@
+<!-- Used in LAkeHouse: Interior. drop a spoon.-->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="action_Resin_Spoon_down.wav"></CSampleFile>
+        </CSample>
+</Sound>

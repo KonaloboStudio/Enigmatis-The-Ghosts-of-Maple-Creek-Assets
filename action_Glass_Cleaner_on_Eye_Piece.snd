@@ -1,0 +1,7 @@
+<!-- Used in MainRoad: Turret. Spraying the Glass Cleaner on the Eye Piece of the Telescope. -->
+
+<Sound Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.900" FileName="using_glass_cleaner.wav"></CSampleFile>
+        </CSample>
+</Sound>

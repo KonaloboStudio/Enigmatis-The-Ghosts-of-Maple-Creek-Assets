@@ -1,0 +1,9 @@
+<!-- Surroundings: MG Picklock. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FadeInTime="0.000" FadeOutTime="0.000" Looped="false" FileName="minigame_Picklock_InsertKeyInGoodLock.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

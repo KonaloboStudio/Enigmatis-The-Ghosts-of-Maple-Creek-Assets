@@ -1,0 +1,9 @@
+<!-- Used in Mansion: Front Door. Sound of put down part od crest. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.200" Volume="1.000" FileName="action_Crest_Put_Down.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

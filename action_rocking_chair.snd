@@ -1,0 +1,7 @@
+<!-- Using on the Girl's room location in mansion, when nods to the rocking horse. -->
+
+<Sound Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="action_rocking_chair.wav"></CSampleFile>
+        </CSample>
+</Sound>

@@ -1,0 +1,9 @@
+<!-- Used in Village: Young-Man. Gentle water splash when the PC pours a bit of it on the YM's face. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="70_Water_Splash_YM.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

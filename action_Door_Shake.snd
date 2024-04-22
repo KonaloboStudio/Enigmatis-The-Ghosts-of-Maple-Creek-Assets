@@ -1,0 +1,10 @@
+<!-- Used in Village: PC Room. Try to open closed balcony door. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CRandomContainer DelayMin="0" DelayMax="0">
+        <CSample>
+           <CSampleFile Pan="0.300" Pitch="1.000" Volume="1.000" FileName="action_Door_Shake_2.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>
+

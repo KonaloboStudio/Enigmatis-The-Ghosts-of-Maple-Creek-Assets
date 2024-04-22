@@ -1,0 +1,9 @@
+<!-- Used in MainRoad: FallenTreeAndBridge. Cutting the Fallen Tree with a Chain Saw. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.800" FileName="action_Tree_Cut.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

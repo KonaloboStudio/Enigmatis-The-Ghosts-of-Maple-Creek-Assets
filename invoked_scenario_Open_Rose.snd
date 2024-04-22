@@ -1,0 +1,12 @@
+<!-- Used in Mansion: Study. Open the rose. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSoundContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.900" FileName="invoked_scenario_Open_Rose.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.200" Volume="0.900" FileName="invoked_scenario_Open_Rose_music.wav"></CSampleFile>
+        </CSample>
+    </CSoundContainer>
+</Sound>

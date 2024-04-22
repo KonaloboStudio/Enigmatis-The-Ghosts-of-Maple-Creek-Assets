@@ -1,0 +1,47 @@
+<animatedImage fps="5.00" blendframes="0">
+
+    <frame source="farm_dog_anim_standing_up_01.png"></frame>	<!-- stand up -->
+    <frame source="farm_dog_anim_standing_up_02.png"></frame>
+    <frame source="farm_dog_anim_standing_up_03.png"></frame>
+    <frame source="farm_dog_anim_standing_up_04.png"></frame>
+
+    <frame source="farm_dog_anim_bark_01.png"></frame>		<!-- bark 1 -->
+    <frame source="farm_dog_anim_bark_02.png"></frame>
+    <frame source="farm_dog_anim_bark_03.png"></frame>
+
+    <frame source="farm_dog_anim_bark_01.png"></frame>		<!-- bark 2 -->
+    <frame source="farm_dog_anim_bark_02.png"></frame>
+    <frame source="farm_dog_anim_bark_03.png"></frame>
+
+    <frame source="farm_dog_anim_bark_01.png"></frame>		<!-- bark 3 -->
+    <frame source="farm_dog_anim_bark_02.png"></frame>
+    <frame source="farm_dog_anim_bark_03.png"></frame>
+
+    <frame source="farm_dog_anim_bark_01.png"></frame>		<!-- stand still -->
+    <frame source="farm_dog_anim_bark_01.png"></frame>
+    <frame source="farm_dog_anim_bark_01.png"></frame>
+    <frame source="farm_dog_anim_bark_01.png"></frame>
+    <frame source="farm_dog_anim_bark_01.png"></frame>
+    <frame source="farm_dog_anim_bark_01.png"></frame>
+    <frame source="farm_dog_anim_bark_01.png"></frame>
+    <frame source="farm_dog_anim_bark_01.png"></frame>
+    <frame source="farm_dog_anim_bark_01.png"></frame>
+
+    <frame source="farm_dog_anim_bark_01.png"></frame>		<!-- bark 4 -->
+    <frame source="farm_dog_anim_bark_02.png"></frame>
+    <frame source="farm_dog_anim_bark_03.png"></frame>
+
+    <frame source="farm_dog_anim_bark_01.png"></frame>		<!-- bark 5 -->
+    <frame source="farm_dog_anim_bark_02.png"></frame>
+    <frame source="farm_dog_anim_bark_03.png"></frame>
+
+    <frame source="farm_dog_anim_bark_01.png"></frame>		<!-- bark 6 -->
+    <frame source="farm_dog_anim_bark_02.png"></frame>
+    <frame source="farm_dog_anim_bark_03.png"></frame>
+
+    <frame source="farm_dog_anim_standing_up_04.png"></frame>	<!-- lay down -->
+    <frame source="farm_dog_anim_standing_up_03.png"></frame>
+    <frame source="farm_dog_anim_standing_up_02.png"></frame>
+    <frame source="farm_dog_anim_standing_up_01.png"></frame>
+
+</animatedImage>

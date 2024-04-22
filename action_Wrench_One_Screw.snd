@@ -1,0 +1,9 @@
+<!-- Used in Farm: Center. Zoom with wheel.-->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CRandomContainer Delay="0.5">
+        <CSample>
+           <CSampleFile Pan="0.500" Pitch="1.000" Volume="1.000" FileName="action_Wrench_One_Screw.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

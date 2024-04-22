@@ -1,0 +1,9 @@
+<!-- Used in Village: Cellar. Player tries to switch the light on, but the circuits are overloaded -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.200" Volume="1.100" FileName="action_Lightbulb_overload.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

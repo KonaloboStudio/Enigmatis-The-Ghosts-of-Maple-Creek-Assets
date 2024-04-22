@@ -1,0 +1,17 @@
+<loadinfo>
+	<languages>
+		<lang name="en"/>
+		<lang name="de"/>
+		<lang name="fr"/>
+		<lang name="it"/>
+		<lang name="ja"/>
+		<lang name="ru"/>
+		<lang name="zh"/>
+		<lang name="pl"/>
+		<lang name="es"/>
+		<lang name="pt"/>
+		<lang name="nl"/>
+	</languages>
+	<device name="metro"/>
+	<device name="metro_1080p"/>
+</loadinfo>

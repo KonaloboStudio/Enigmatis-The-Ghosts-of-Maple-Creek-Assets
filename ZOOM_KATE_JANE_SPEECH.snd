@@ -1,0 +1,7 @@
+<!-- Voice-Over -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.8" FileName="ZOOM_KATE_JANE_SPEECH.wav"></CSampleFile>
+    </CSample>
+</Sound>

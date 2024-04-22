@@ -1,0 +1,9 @@
+<!-- Used in Village: MG Pipes. Turning a Valve on a metal pipe. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.700" Volume="0.600" FileName="action_Valve_turn.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

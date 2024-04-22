@@ -1,0 +1,9 @@
+<!-- Used in Village: Corridor. When a wooden thing breaks after being hit, e.g. a door broken with several consecutive hits with the Hatchet. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="action_Wood_Crashing.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

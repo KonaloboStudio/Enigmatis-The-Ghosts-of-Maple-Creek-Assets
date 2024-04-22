@@ -1,0 +1,7 @@
+<!-- Used in Village: Bathroom. Water flowing from a tap. -->
+
+<Sound Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Looped="true" Volume="0.900" FileName="water_running_from_the_tap.wav"></CSampleFile>
+        </CSample>
+</Sound>

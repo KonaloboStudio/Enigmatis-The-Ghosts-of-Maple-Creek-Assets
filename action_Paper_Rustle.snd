@@ -1,0 +1,15 @@
+<!-- Used in Village:Hill. Moving aside paper trash -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Weight="2" Pitch="0.900" Volume="0.600" FadeInTime="0" FadeOutTime="0" FileName="action_Paper_Rustle.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.800" Weight="2" Pitch="0.800" Volume="0.500" FadeInTime="0" FadeOutTime="0" FileName="action_Paper_Rustle.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.500" Weight="2" Pitch="1.000" Volume="0.700" FadeInTime="0" FadeOutTime="0" FileName="action_Paper_Rustle.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

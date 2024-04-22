@@ -1,0 +1,9 @@
+<!-- Used in MainRoad: Gas station Inside. Sound of working machine -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="true" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.400" FileName="ambient_add_Working_Machine.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

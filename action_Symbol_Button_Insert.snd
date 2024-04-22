@@ -1,0 +1,9 @@
+<!-- Used Mansion: MG Symbols. Inserting a Button into its place in the Symbol Minigame. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.200" FileName="action_Symbol_Button_Insert.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

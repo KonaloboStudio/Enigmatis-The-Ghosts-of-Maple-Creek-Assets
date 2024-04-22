@@ -1,0 +1,10 @@
+<!-- Used Belfry top-->
+
+<Sound Pan="0.0" Pitch="1.000" Volume="1.000" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.0" FileName="SINGLE_Bell_ringing_1.wav"></CSampleFile>
+        </CSample>
+<CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.0" FileName="SINGLE_Bell_ringing_1.wav"></CSampleFile>
+        </CSample>
+</Sound>

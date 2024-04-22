@@ -1,0 +1,9 @@
+<!-- Used in Farm: Garage. Zoom with wheel. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer Delay="0.5">
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.800" Volume="0.900" FileName="action_Wrench.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

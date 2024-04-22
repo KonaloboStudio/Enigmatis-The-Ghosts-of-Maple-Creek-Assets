@@ -1,0 +1,10 @@
+<!-- Used in Village: MG BriefcaseLock. Using the inserted Paper-Clip to unlock the button. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.900" FileName="113_Button_Unlock.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>
+

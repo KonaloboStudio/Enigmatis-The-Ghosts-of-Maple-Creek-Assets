@@ -1,0 +1,9 @@
+<!-- Used in GateLock MG: The Cover of the Slot for the Crowd Heads Item opens. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.100" FileName="action_Gate_Lock_Cover_Open.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

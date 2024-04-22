@@ -1,0 +1,10 @@
+<!-- Used in Village: Bathroom. Hard blow of wind when a bag is falling -->
+
+<Sound Pan="0.500" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.900" Volume="1.200"  FadeInTime="0" FadeOutTime="3"
+FileName="wind_with_leafs_2.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

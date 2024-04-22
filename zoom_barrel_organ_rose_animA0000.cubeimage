@@ -1,0 +1,11 @@
+<animatedImage fps="2.075" blendframes="0">
+        <frame source="Zoom_S_Barrel_Organ_flower0000.png" ></frame>
+        <frame source="Zoom_S_Barrel_Organ_flower0004.png" ></frame>
+        <frame source="Zoom_S_Barrel_Organ_flower0008.png" ></frame>
+        <frame source="Zoom_S_Barrel_Organ_flower0012.png" ></frame>
+        <frame source="Zoom_S_Barrel_Organ_flower0016.png" ></frame>
+        <frame source="Zoom_S_Barrel_Organ_flower0020.png" ></frame>
+        <frame source="Zoom_S_Barrel_Organ_flower0024.png" ></frame>
+        <frame source="Zoom_S_Barrel_Organ_flower0028.png" ></frame>
+        <frame source="Zoom_S_Barrel_Organ_flower0030.png" ></frame>
+</animatedImage>

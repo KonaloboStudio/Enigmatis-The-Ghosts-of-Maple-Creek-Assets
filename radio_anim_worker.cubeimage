@@ -1,0 +1,14 @@
+<animatedImage fps="7.00" blendframes="0">
+
+    <frame source="gas_station_summer_worker_anim_idle01.png"></frame>
+    <frame source="gas_station_summer_worker_anim_idle02.png"></frame>
+    <frame source="gas_station_summer_worker_anim_idle03.png"></frame>
+    <frame source="gas_station_summer_worker_anim_idle04.png"></frame>
+    <frame source="gas_station_summer_worker_anim_idle05.png"></frame>
+
+    <frame source="gas_station_summer_worker_anim_idle04.png"></frame>
+    <frame source="gas_station_summer_worker_anim_idle03.png"></frame>
+    <frame source="gas_station_summer_worker_anim_idle02.png"></frame>
+    <frame source="gas_station_summer_worker_anim_idle01.png"></frame>
+
+</animatedImage>

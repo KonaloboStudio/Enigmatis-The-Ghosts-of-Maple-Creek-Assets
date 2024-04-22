@@ -1,0 +1,9 @@
+<!-- Location: LakeHouse: Shore-->
+
+<Sound Pan="-0.500" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="action_Shore_Boat_Out.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

@@ -1,0 +1,9 @@
+<!-- Used in Farm: Garage. Zoom with fuel tank and gas can.-->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.500" Pitch="1.500" Volume="0.900" FileName="action_Fuel_Tank_Cap.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

@@ -1,0 +1,9 @@
+<!-- Used in Village: Bathroom, Inside. Any wooden cabinet or other "door-type" furniture like the one below the washbowl opens. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.900" FileName="76_Cabinet_Open.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

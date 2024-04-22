@@ -1,0 +1,9 @@
+<!-- Used Mansion: FrontDoor. A Plank falls down and hits the stairs or a terrace below when both Nails are pulled out from it. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.900" Volume="1.000" FileName="invoked_scenario_Plank_Fall.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

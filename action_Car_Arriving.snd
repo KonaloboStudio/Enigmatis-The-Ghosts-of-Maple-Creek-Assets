@@ -1,0 +1,9 @@
+<!-- Used in MainRoad: GasStation. Arriving and switching off the engine. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.900" FileName="150_Car_Arriving.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

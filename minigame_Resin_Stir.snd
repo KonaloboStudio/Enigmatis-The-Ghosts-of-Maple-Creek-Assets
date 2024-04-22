@@ -1,0 +1,9 @@
+<!-- Interior: MG Resin. resin stiring sound. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FadeInTime="2.000" FadeOutTime="2.000" Looped="true" FileName="minigame_Resin_Stir.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>
